@@ -22,11 +22,7 @@ This tutorial explains how to create a virtual machine in Azure with the Windows
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- An account with Microsoft Azure
 
 <h2>Installation Steps</h2>
 
