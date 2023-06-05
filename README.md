@@ -93,10 +93,10 @@ In the Image section, search for Windows 10 Pro. This section is very important 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/Ch4D1kY.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this section for size, it is recommended to get one similiar to the one I chose in the image above. The price beside it is the estimated cost if you leave the system running the entire month. It is best to delete the virtual machine and all resources after you are done for the day. Doing this method my usual expenses for the month is around $20-$30 depending on how long I work on my projects. This part is essential since if you are like myself, you do not want to be surprised with a huge bill at the end of the month.
 </p>
 <br />
 
