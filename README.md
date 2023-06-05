@@ -12,7 +12,7 @@ This tutorial explains how to create a virtual machine in Azure with the Windows
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -35,10 +35,10 @@ When you log in to your Azure account, the first item to open will be the resour
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M8NHehQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You can skip to the "Review and Create" tab, which should give you a green validation passed prompt. Afterwards you can click on "Create" to finish creating your resource group.
 </p>
 <br />
 
