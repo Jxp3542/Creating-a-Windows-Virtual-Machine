@@ -24,13 +24,13 @@ This tutorial explains how to create a virtual machine in Azure with the Windows
 
 - An account with Microsoft Azure
 
-<h2>Installation Steps</h2>
+<h2>Instructions</h2>
 
 <p>
 <img src="https://i.imgur.com/m0so2rd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When you log in to your Azure account, the first item to open will be the resource group link. If you cannot find it then you can search in the search bar within Azure and type "Resource Groups". The next step is to click on "Create New Resource Group" which will pop up the previous image. You can decided a name for the group, in my example I used "Test1". I used a region in the United States where I live but you can choose any region, make sure to remember which region you chose.
 </p>
 <br />
 
