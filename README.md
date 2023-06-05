@@ -27,7 +27,7 @@ This tutorial explains how to create a virtual machine in Azure with the Windows
 <h2>Instructions</h2>
 
 <p>
-<img src="https://i.imgur.com/m0so2rd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m0so2rd.jpg" height="80%" width="80%" />
 </p>
 <p>
 When you log in to your Azure account, the first item to open will be the resource group link. If you cannot find it then you can search in the search bar within Azure and type "Resource Groups". The next step is to click on "Create New Resource Group" which will pop up the previous image. You can decided a name for the group, in my example I used "Test1". I used a region in the United States where I live but you can choose any region, make sure to remember which region you chose.
@@ -35,7 +35,7 @@ When you log in to your Azure account, the first item to open will be the resour
 <br />
 
 <p>
-<img src="https://i.imgur.com/M8NHehQ.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M8NHehQ.jpg" height="50%" width="50%" />
 </p>
 <p>
 You can skip to the "Review and Create" tab, which should give you a green validation passed prompt. Afterwards you can click on "Create" to finish creating your resource group.
@@ -43,7 +43,7 @@ You can skip to the "Review and Create" tab, which should give you a green valid
 <br />
 
 <p>
-<img src="https://i.imgur.com/3UbAI8N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3UbAI8N.png" height="80%" width="80%" />
 </p>
 <p>
 After creating the resource group, click on the search bar to find Virtual Machines. In my screen I have it under recent since I have opened it before however if you are new then you have to type it in the search bar to find it.
@@ -51,8 +51,10 @@ After creating the resource group, click on the search bar to find Virtual Machi
 <br />
 
 <p>
-<img src="https://i.imgur.com/pkWmNLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pkWmNLD.png" height="80%" width="80%" />
 </p>
+<p>
+<img src="https://i.imgur.com/p1NzcVN.png" height="80%" width="80%" />
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
