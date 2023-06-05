@@ -61,10 +61,10 @@ Once you open up the virtual machine screen as shown above, click on create "Azu
 <br />
 
 <p>
-<img src="https://i.imgur.com/JHmkzm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JHmkzm5.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step you can select the resource group, in my case i created the test1 earlier. You can choose the one you created.
 </p>
 <br />
 
