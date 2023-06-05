@@ -35,7 +35,7 @@ When you log in to your Azure account, the first item to open will be the resour
 <br />
 
 <p>
-<img src="https://i.imgur.com/M8NHehQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M8NHehQ.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 You can skip to the "Review and Create" tab, which should give you a green validation passed prompt. Afterwards you can click on "Create" to finish creating your resource group.
