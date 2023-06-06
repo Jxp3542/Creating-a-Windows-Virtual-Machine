@@ -165,17 +165,70 @@ When you open up the virtual machine, copy the public IP address. This can be do
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/dC8jQSj.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On your personal computer open "remote desktop connection", in the empty space where it says computer paste the copied public address of the virtual machine you created. Press connect when ready.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/fzch5Sw.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After clicking connect on the previous screen it will show you the enter your credentials page. I block out my personal info but you can press more choices to fill out you information. For my vm its username Labuser and my password that I created. Press Ok when ready.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/HXSPzn5.png" height="80%" width="80%" />
+</p>
+<p>
+It will give you this warning message but go ahead and click Yes to continue.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FWd0IWO.png" height="80%" width="80%" />
+</p>
+<p>
+Once you connect to the virtual machine, it will give you this page. Click on accept will allow you to continue on. Remember this settings don't matter since at the end of the day this vm will be deleted.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/sYIfHp8.png" height="80%" width="80%" />
+</p>
+<p>
+Congratulations on creating your first Windows Operating virtual machine. Go ahead and play around with it. Once you are ready to exit go ahead and turn off the virtual machine just like a regular computer. Click on the right bottom corner and choose shutdown. Another option is to click on the X button on the top middle of your screen. That will exit the Virtual Machine without shutting it down.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/mLzmU5k.png" height="80%" width="80%" />
+</p>
+<p>
+To delete the virtual machine open up the VM page on Azure. Click on the delete button as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ABVBy2b.png" height="80%" width="80%" />
+</p>
+<p>
+Check the I understand box, afterwards click the delete button to finish erasing the virtual machine.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OtinwKt.png" height="80%" width="80%" />
+</p>
+<p>
+<img src="https://i.imgur.com/GPIpt40.png" height="80%" width="80%" />
+<p>
+<p>
+Next up to is to delete all the resource groups. Make sure to delete both NetworkWatcher and the main resource group that was created earlier. For my example it was Test1. Once deleted make sure to check the virtual machine section once more to be sure that everything was deleted. Now your Azure account is clean and ready for the next use.
+</p>
+<br />
+
+
