@@ -141,26 +141,26 @@ This is the image you will see when your virtual machine is being created. Depen
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/vwpzHka.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once completed this is the image you will see on your screen.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/A3th5lN.png" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Look up virtual machines in the search bar. Once on the virtual machine screen, click on the created vm. For my example it is Labuser.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KuQLoqm.png" height="80%" width="80%" />
+</p>
+<p>
+When you open up the virtual machine, copy the public IP address. This can be done by hovering your mouse over it and clicking the copy icon that pops up.
 </p>
 <br />
 
