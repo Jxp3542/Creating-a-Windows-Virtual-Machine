@@ -117,6 +117,38 @@ In this section you can go ahead and ignore both of the sections that say ports.
 <br />
 
 <p>
+<img src="https://i.imgur.com/FSFe5U0.png" height="80%" width="80%" />
+</p>
+<p>
+After clicking on review and create on the previous section it will take you to the networking tab. Here you will not change anything but click on review and create again.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ihpSNcX.png" height="80%" width="80%" />
+</p>
+<p>
+This is the Review and Create tab, on here it will give you an estimate cost for the monthly use the virtual machine. Once again this only the cost if you leave the machine and all your resources running nonstop for the entire month. After reading this section click on the create button.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JSDD0Ox.png" height="80%" width="80%" />
+</p>
+<p>
+This is the image you will see when your virtual machine is being created. Depending on the size of the machine it may take several minutes.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
 </p>
 <p>
